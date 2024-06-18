@@ -1,7 +1,11 @@
 :root {
-    background: white;
+    background: #ebecee;
 }
 
 body {
     background-color: white;
+}
+
+h1 {
+    background-color:white
 }
